@@ -1,6 +1,6 @@
-:HL["/resoluciones-autos/_next/static/chunks/3hvc98lvtvvjz.css","style"]
+:HL["/resoluciones-autos/_next/static/chunks/1wi_27__sf89j.css","style"]
 :HL["/resoluciones-autos/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/resoluciones-autos/api/v1/resoluciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"CR0hgG7771SLK8MwOCRTu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"YO60VvZr8z1vFYliO5C6a","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
