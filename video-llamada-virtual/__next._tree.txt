@@ -1,7 +1,7 @@
-:HL["/resoluciones-autos/_next/static/chunks/1wdheqywbaq4d.css","style"]
-:HL["/resoluciones-autos/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/resoluciones-autos/_next/static/chunks/0f4_4sisne3ri.css","style"]
+:HL["/resoluciones-autos/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/resoluciones-autos/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/resoluciones-autos/api/v1/resoluciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"video-llamada-virtual","h":96,"c":"$Q2"}]]
-0:{"b":"qGQ_YeR3UM37eu76U2lbY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"fD6CgKJ1BA13mpCAmcWWA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
