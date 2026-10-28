@@ -4,4 +4,4 @@
 :HL["/resoluciones-autos/api/v1/resoluciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"resultado","h":96,"c":"$Q2"}]]
-0:{"b":"iAs3KANif9kVsKqJXTAKr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"00tqWuJzpXprCeAzJa7-w","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
