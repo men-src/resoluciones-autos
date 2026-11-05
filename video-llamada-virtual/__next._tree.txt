@@ -4,4 +4,4 @@
 :HL["/resoluciones-autos/api/v1/resoluciones/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"video-llamada-virtual","h":64,"c":"$Q2"}]]
-0:{"b":"M-6kvHfQMwsmyebiGbLcn","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"ikYqejp5hqar3BlJKR88d","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
